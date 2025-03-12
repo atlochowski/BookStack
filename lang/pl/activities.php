@@ -128,12 +128,12 @@ return [
     'comment_delete'              => 'usunął komentarz',
 
     // Sort Rules
-    'sort_rule_create' => 'created sort rule',
-    'sort_rule_create_notification' => 'Sort rule successfully created',
-    'sort_rule_update' => 'updated sort rule',
-    'sort_rule_update_notification' => 'Sort rule successfully updated',
-    'sort_rule_delete' => 'deleted sort rule',
-    'sort_rule_delete_notification' => 'Sort rule successfully deleted',
+    'sort_rule_create' => 'utworzono regułę sortowania',
+    'sort_rule_create_notification' => 'Reguła sortowania została pomyślnie utworzona',
+    'sort_rule_update' => 'zaktualizowana reguła sortowania',
+    'sort_rule_update_notification' => 'Reguła sortowania została pomyślnie zaktualizowana',
+    'sort_rule_delete' => 'usunięta reguła sortowania',
+    'sort_rule_delete_notification' => 'Reguła sortowania została pomyślnie usunięta',
 
     // Other
     'permissions_update'          => 'zaktualizował uprawnienia',
